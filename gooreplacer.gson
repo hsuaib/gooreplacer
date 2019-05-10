@@ -10,7 +10,7 @@
         "fonts.googleapis.com": {
             "dstURL": "fonts.proxy.ustclug.org",
             "kind": "wildcard",
-            "enable": false
+            "enable": true
         },
         "storage.googleapis.com": {
             "dstURL": "storage-googleapis.proxy.ustclug.org",
@@ -30,7 +30,7 @@
         "fonts.gstatic.com": {
             "dstURL": "fonts-gstatic.proxy.ustclug.org",
             "kind": "wildcard",
-            "enable": false
+            "enable": true
         },
         "platform.twitter.com/widgets.js": {
             "dstURL": "cdn.jsdelivr.net/gh/jiacai2050/gooreplacer@gh-pages/proxy/widgets.js",
